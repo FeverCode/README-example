@@ -8,7 +8,7 @@ General info    | Technologies     | setup
 Info      |  Test         |   Test      |
 
 
-![README-example](./main/download.jpg)
+![README-example](https://github.com/FeverCode/README-example/blob/main/download.jpeg)
 
 # General Info
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
