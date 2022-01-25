@@ -5,7 +5,7 @@ This is an example of a good README file
 
 General info    | Technologies     | setup 
 ------------- | ------------- | --------    |
-'Info'        |  Test         |   Test      |
+Info      |  Test         |   Test      |
 
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-write-a-good-readme-file%2F&psig=AOvVaw1ZBOyB3X1WRmVAZEHU4ylV&ust=1643189055870000&source=images&cd=vfe&ved=2ahUKEwjQ7oexysz1AhXwSEEAHYsBD_kQr4kDegUIARDpAQ">
